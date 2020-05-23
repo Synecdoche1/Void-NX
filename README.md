@@ -9,7 +9,7 @@ Vöid is a work-in-progress customized firmware for the Nintendo Switch, based o
 Components
 =====
 
-Atmosphère consists of multiple components, each of which replaces/modifies a different component of the system:
+Vöid consists of multiple components, each of which replaces/modifies a different component of the system:
 
 * Fusée: First-stage Loader, responsible for loading and validating stage 2 (custom TrustZone) plus package2 (Kernel/FIRM sysmodules), and patching them as needed. This replaces all functionality normally in Package1loader/NX Bootloader.
     * Sept: Payload used to enable support for runtime key derivation on 7.0.0.
@@ -32,8 +32,8 @@ Exemptions:
 Credits
 =====
 
-Atmosphère is currently being developed and maintained by __SciresM__, __TuxSH__, __hexkyz__, and __fincs__.<br>
-In no particular order, we credit the following for their invaluable contributions:
+Vöid is currently being maintained by __Synecdoche__.<br>
+In no particular order, I credit the following for their invaluable contributions:
 
 * __switchbrew__ for the [libnx](https://github.com/switchbrew/libnx) project and the extensive [documentation, research and tool development](http://switchbrew.org) pertaining to the Nintendo Switch.
 * __devkitPro__ for the [devkitA64](https://devkitpro.org/) toolchain and libnx support.
