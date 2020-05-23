@@ -6,6 +6,8 @@
 
 Vöid is a work-in-progress customized firmware for the Nintendo Switch, based on ScireM's [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/blob/master/README.md).
 
+This is in no way coded, or made by me, only very slight changes and is intended to be an all-in-one packages to make installing customer firmware painless.
+
 Components
 =====
 
