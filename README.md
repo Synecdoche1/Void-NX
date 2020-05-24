@@ -28,8 +28,9 @@ Download the ZIP in the releases section, unzip the file to a folder of your cho
 - Payloads available to use with a Payload launcher.
 - Lightweight! The total size is only:
   - SD Card: 70.7MB
-  - PC Apps: 12.1MB
+  - PC Apps: 27.7MB
   - Payloads: 364KB
+  - ZIP: 53MB
 
 # Homebrew Included
 
@@ -122,3 +123,4 @@ I thank all the following people, in no order, for their amazing homebrew and co
 * __CompSciOrBust__ for N-Xplorer, making file management a breeze.
 * __vgmoose__ for Homebrew Appstore and making the downloading and management of homebrew applications so easy.
 * __Hunterb__ for making Awoo Installer, making the installation of games so effortless.
+* __developersu__ for NS-USBloader, and making it incredibly easy to install games with a PC.
