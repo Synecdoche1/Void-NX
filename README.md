@@ -1,35 +1,40 @@
 ![Banner](img/banner.png?raw=true)
 =====
 
-![License](https://img.shields.io/badge/License-GPLv2-blue.svg)
-[![Chat on Discord](https://camo.githubusercontent.com/b4175720ede4f2621aa066ffbabb70ae30044679/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636861742d446973636f72642d627269676874677265656e2e737667)](https://discordapp.com/invite/ZdqEhed)
-
 Vöid is a work-in-progress customized firmware for the Nintendo Switch, based on ScireM's [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/blob/master/README.md).
 
 This is in no way coded, or made by me, only very slight changes and is intended to be an all-in-one packages to make installing customer firmware painless.
 
-Components
+# Features
+
+- Drag and drop, ready to use.
+- Incognito enabled by default.
+  - Enabled for both Stock and EmuNAND
+- Ready to use homebrew apps, up to date.
+- Up-To-Date Atmosphere.
+- PC Tools available in the Zip.
+- Payloads available to use with a Payload launcher.
+
+Upcoming Features
 =====
 
-Vöid consists of multiple components, each of which replaces/modifies a different component of the system:
+- Vöid updater
+- Vöid Toolbox
 
-* Fusée: First-stage Loader, responsible for loading and validating stage 2 (custom TrustZone) plus package2 (Kernel/FIRM sysmodules), and patching them as needed. This replaces all functionality normally in Package1loader/NX Bootloader.
-    * Sept: Payload used to enable support for runtime key derivation on 7.0.0.
-* Exosphère: Customized TrustZone, to run a customized Secure Monitor
-* Thermosphère: EL2 EmuNAND support, i.e. backing up and using virtualized/redirected NAND images
-* Stratosphère: Custom Sysmodule(s), both Rosalina style to extend the kernel/provide new features, and of the loader reimplementation style to hook important system actions
-* Troposphère: Application-level Horizon OS patches, used to implement desirable CFW features
-
-Licensing
+FAQ
 =====
 
-This software is licensed under the terms of the GPLv2, with exemptions for specific projects noted below.
+## What is Vöid?
 
-You can find a copy of the license in the [LICENSE file](LICENSE).
+Vöid is an all-in-one custom firmware for the Ninteno Switch based on [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/blob/master/README.md), in the same kin as Kosmos, entirely focussing on ease of use for any one that wants to set up custom firmware on their Nintento Switch without much effort.
 
-Exemptions:
-* The [yuzu Nintendo Switch emulator](https://github.com/yuzu-emu/yuzu) and the [Ryujinx Team and Contributors](https://github.com/orgs/Ryujinx) are exempt from GPLv2 licensing. They are permitted, each at their individual discretion, to instead license any source code authored for the Atmosphère project as either GPLv2 or later or the [MIT license](https://github.com/Atmosphere-NX/Atmosphere/blob/master/docs/licensing_exemptions/MIT_LICENSE). In doing so, they may alter, supplement, or entirely remove the copyright notice for each file they choose to relicense. Neither the Atmosphère project nor its individual contributors shall assert their moral rights against any of the aforementioned projects.
-* [Nintendo](https://github.com/Nintendo) is exempt from GPLv2 licensing and may (at its option) instead license any source code authored for the Atmosphère project under the Zero-Clause BSD license.
+## Why "Vöid"
+
+Atmosphere is named from the layer of gases around the world, and Kosmos is named after, well, the Cosmos. Both astroligical in nature, Vöid is named from the enmptiness of space, and to "fill the void" of Kosmos.
+
+## Where do I find Sigpatches?
+
+Sigpatches are not provided by default, but you can find them on GBATemp quite easily. 
 
 Credits
 =====
