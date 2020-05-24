@@ -7,7 +7,7 @@ This is in no way coded, or made by me, only very slight changes and is intended
 
 # DISCLAIMER
 
-MAKE A NAND BACK UP THROUGH HEKATE BEFORE DOING ANYTHING TO YOUR SWITCH! YOU HAVE BEEN WARNED!
+***MAKE A NAND BACK UP THROUGH HEKATE BEFORE DOING ANYTHING TO YOUR SWITCH! YOU HAVE BEEN WARNED!***
 
 I am not in any way responsible for anything that happens to your Switch, nor would I expect anything to happen. Use at your own discretion.
 
