@@ -71,7 +71,7 @@ Vöid is an all-in-one custom firmware for the Ninteno Switch based on [Atmosphe
 
 ## Why "Vöid"?
 
-Atmosphere is named from the layer of gasses around the world, and Kosmos is named after, well, the Cosmos. Both astroligical in nature, Vöid is named from the emptiness of space, and to "fill the void" of Kosmos.
+Atmosphere is named from the layer of gasses around the world, and Kosmos is named after, well, the Cosmos. Both astrological in nature, Vöid is named from the emptiness of space, and to "fill the void" of Kosmos.
 
 ## Where do I find Sigpatches?
 
@@ -88,7 +88,7 @@ Goldleaf is incredible for title management, but can be a bit broken at times at
 
 ## Why can't I install any games? And why wont the ones I have installed launch?
 
-You need Sigpathces in order to both of those things. These are not included in this custom firmware. You can find them via Google or on GBA Temp quite easily. 
+You need Sigpatches in order to both of those things. These are not included in this custom firmware. You can find them via Google or on GBA Temp quite easily. 
 
 ## Can I contribute?
 
