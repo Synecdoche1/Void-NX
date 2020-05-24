@@ -9,7 +9,7 @@ This is in no way coded, or made by me, only very slight changes and is intended
 
 ***MAKE A NAND BACK UP THROUGH HEKATE BEFORE DOING ANYTHING TO YOUR SWITCH! YOU HAVE BEEN WARNED!***
 
-I am not in any way responsible for anything that happens to your Switch, nor would I expect anything to happen. Use at your own discretion.
+I am not in any way responsible for anything that happens to your Switch, nor would I expect anything to happen. Use at your own discretion. When modifying anything on your Switch you are always at risk at possible damage, or an account ban from Nintendo. Use at your own risk.
 
 # How To Use
 
