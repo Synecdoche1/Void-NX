@@ -5,16 +5,25 @@ Vöid is a work-in-progress customized firmware for the Nintendo Switch, based o
 
 This is in no way coded, or made by me, only very slight changes and is intended to be an all-in-one packages to make installing customer firmware painless.
 
+# How To Use
+
+Download the ZIP in the releases section, unzip the file to a folder of your choosing. Three folders are included in this pack, SD Card, Payloads and PC. Just drag and drop the contents of the SD Card folder onto the root of your SD Card. Insert it into your Switch and inject Hekate as you normally would. Launch either SsysNAND or emuNAND as usual, and you're good to go!
+
 # Features
 
 - Drag and drop, ready to use.
+- Works on all Firmware versions, providing you can inject the payload.
 - Incognito enabled by default.
-  - Enabled for both Stock and EmuNAND
+  - Enabled for both sysNAND and emuNAND
   - ***WARNING: THIS IS NOT KNOWN TO BE SAFE AND DOES NOT GUARENTEE YOU PROTECTION.*** 
-- Ready to use homebrew apps, up to date.
+- Ready to use homebrew apps, all up to date.
 - Up-To-Date Atmosphere.
 - PC Tools available in the Zip.
 - Payloads available to use with a Payload launcher.
+- Lightweight! The total size is only:
+  - SD Card: 70.7MB
+  - PC Apps: 12.1MB
+  - Payloads: 364KB
 
 # Homebrew Included
 
@@ -29,11 +38,26 @@ This is in no way coded, or made by me, only very slight changes and is intended
 - [Tesla Menu](https://github.com/WerWolv/Tesla-Menu) By WerWolv - Overlay Menu
 - [ChoiDujourNX](https://switchtools.sshnuke.net/) By rajkosto - Firmware Updater Without Burning Fuses
 
+# Payloads Included
+
+- [Hekate](https://github.com/CTCaer/hekate/releases) By CTCaer - Custom Firmware Launcher and emuNAND Creator.
+- [Lockpick RCM](https://github.com/shchmue/Lockpick_RCM/releases) By shchmue - Generates Encryption Keys
+- [Tegra Explorer](https://github.com/suchmememanyskill/TegraExplorer) By suchmememanyskill - Payload Based File Explorer
+
+# PC Tools Included
+
+- [Tegra RCM GUI](https://github.com/eliboa/TegraRcmGUI/releases) By eliboa - PC RCM Payload Injector
+- [Switch Backup Manager](https://github.com/gibaBR) By gibaBR - Switch Game Backup Manager 
+
 Upcoming Features
 =====
 
 - Vöid updater
 - Vöid Toolbox
+- Support Pegascape
+
+Upcoming Features
+=====
 
 FAQ
 =====
@@ -42,7 +66,7 @@ FAQ
 
 Vöid is an all-in-one custom firmware for the Ninteno Switch based on [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/blob/master/README.md), in the same kin as Kosmos, entirely focussing on ease of use for any one that wants to set up custom firmware on their Nintento Switch without much effort.
 
-## Why "Vöid"
+## Why "Vöid"?
 
 Atmosphere is named from the layer of gasses around the world, and Kosmos is named after, well, the Cosmos. Both astroligical in nature, Vöid is named from the enmptiness of space, and to "fill the void" of Kosmos.
 
@@ -54,19 +78,9 @@ Credits
 =====
 
 Vöid is currently being maintained by __Synecdoche__.<br>
-In no particular order, I credit the following for their invaluable contributions:
+I thank all the following people, in no order, for their amazing homebrew and contributions to the scene.
 
-* __switchbrew__ for the [libnx](https://github.com/switchbrew/libnx) project and the extensive [documentation, research and tool development](http://switchbrew.org) pertaining to the Nintendo Switch.
-* __devkitPro__ for the [devkitA64](https://devkitpro.org/) toolchain and libnx support.
-* __ReSwitched Team__ for additional [documentation, research and tool development](https://reswitched.team/) pertaining to the Nintendo Switch.
-* __ChaN__ for the [FatFs](http://elm-chan.org/fsw/ff/00index_e.html) module.
-* __Marcus Geelnard__ for the [bcl-1.2.0](https://sourceforge.net/projects/bcl/files/bcl/bcl-1.2.0) library.
-* __naehrwert__ and __st4rk__ for the original [hekate](https://github.com/nwert/hekate) project and its hwinit code base.
-* __CTCaer__ for the continued [hekate](https://github.com/CTCaer/hekate) project's fork and the [minerva_tc](https://github.com/CTCaer/minerva_tc) project.
-* __m4xw__ for development of the [emuMMC](https://github.com/m4xw/emummc) project.
-* __Riley__ for suggesting "Atmosphere" as a Horizon OS reimplementation+customization project name.
-* __hedgeberg__ for research and hardware testing.
-* __lioncash__ for code cleanup and general improvements.
-* __jaames__ for designing and providing Atmosphère's graphical resources.
-* Everyone who submitted entries for Atmosphère's [splash design contest](https://github.com/Atmosphere-NX/Atmosphere-splashes).
-* _All those who actively contribute to the Atmosphère repository._
+* __WerWolv__ for their incredible homebrew, work on Kosmos and help when ever needed.
+* __SciresM__ for the work on Atmosphere, and enabling this scene to blossom through all their hard work.
+* __CTCaer__ for Hekate and Nyx, and the wonderful work they've done for the scene in general.
+
