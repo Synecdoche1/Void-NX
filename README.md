@@ -10,6 +10,7 @@ This is in no way coded, or made by me, only very slight changes and is intended
 - Drag and drop, ready to use.
 - Incognito enabled by default.
   - Enabled for both Stock and EmuNAND
+  > WARNING: THIS IS NOT KNOWN TO BE SAFE AND DOES NOT GUARENTEE YOU PROTECTION. 
 - Ready to use homebrew apps, up to date.
 - Up-To-Date Atmosphere.
 - PC Tools available in the Zip.
@@ -30,7 +31,7 @@ Vöid is an all-in-one custom firmware for the Ninteno Switch based on [Atmosphe
 
 ## Why "Vöid"
 
-Atmosphere is named from the layer of gases around the world, and Kosmos is named after, well, the Cosmos. Both astroligical in nature, Vöid is named from the enmptiness of space, and to "fill the void" of Kosmos.
+Atmosphere is named from the layer of gasses around the world, and Kosmos is named after, well, the Cosmos. Both astroligical in nature, Vöid is named from the enmptiness of space, and to "fill the void" of Kosmos.
 
 ## Where do I find Sigpatches?
 
