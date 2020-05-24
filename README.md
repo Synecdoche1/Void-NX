@@ -84,7 +84,9 @@ If you do want to connect to the internet, and use applications such as Homebrew
 
 ## Can I contribute?
 
-Sure! Hit me up with a message on what you'd want to do/add and we'll tralk from there.
+Sure! Hit me up with a message on what you'd want to do/add and we'll talk from there.
+
+Discord: Synecdoche#2077
 
 ## Where's your Patreon page?
 
