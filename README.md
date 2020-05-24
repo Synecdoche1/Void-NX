@@ -52,7 +52,7 @@ Download the ZIP in the releases section, unzip the file to a folder of your cho
 Upcoming Features
 =====
 
-- Vöid updater
+- Vöid Updater
 - Vöid Toolbox
 - Support Pegascape
 
