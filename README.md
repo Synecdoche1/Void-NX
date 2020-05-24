@@ -5,6 +5,12 @@ Vöid is a work-in-progress customized firmware for the Nintendo Switch, based o
 
 This is in no way coded, or made by me, only very slight changes and is intended to be an all-in-one packages to make installing customer firmware painless.
 
+# DISCLAIMER
+
+MAKE A NAND BACK UP THROUGH HEKATE BEFORE DOING ANYTHING TO YOUR SWITCH! YOU HAVE BEEN WARNED!
+
+I am not in any way responsible for anything that happens to your Switch, nor would I expect anything to happen. Use at your own discretion.
+
 # How To Use
 
 Download the ZIP in the releases section, unzip the file to a folder of your choosing. Three folders are included in this pack, SD Card, Payloads and PC. Just drag and drop the contents of the SD Card folder onto the root of your SD Card. Insert it into your Switch and inject Hekate as you normally would. Launch either SsysNAND or emuNAND as usual, and you're good to go!
