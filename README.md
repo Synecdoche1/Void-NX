@@ -82,6 +82,14 @@ Sigpatches are not provided by default, but you can find them on GBA Temp quite 
 First of all, do not install pirated games and run them on your account and then connect to the internet. That is a sure way to get banned.
 If you do want to connect to the internet, and use applications such as Homebrew Appstore, then I'd highly recommend [90DNS](https://gbatemp.net/threads/90dns-dns-server-for-blocking-all-nintendo-servers.516234/)
 
+## Why Awoo and Goldleaf? Isn't one enough?
+
+Goldleaf is incredible for title management, but can be a bit broken at times at installing games. This is where Awoo comes in, as it works majority of the time.
+
+## Why can't I install any games? And why wont the ones I have installed launch?
+
+You need Sigpathces in order to both of those things. These are not included in this custom firmware. You can find them via Google or on GBA Temp quite easily. 
+
 ## Can I contribute?
 
 Sure! Hit me up with a message on what you'd want to do/add and we'll talk from there.
