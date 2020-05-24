@@ -124,3 +124,7 @@ I thank all the following people, in no order, for their amazing homebrew and co
 * __vgmoose__ for Homebrew Appstore and making the downloading and management of homebrew applications so easy.
 * __Hunterb__ for making Awoo Installer, making the installation of games so effortless.
 * __developersu__ for NS-USBloader, and making it incredibly easy to install games with a PC.
+* __eliboa__ for Tegra RCM GUI, making launching your Switch via a PC a breeze.
+* __shchmue__ for Lockpick, and making the task of getting keys, so much easier.
+* __suchmememanyskill__ for Tegra Explorer, and making managing files via a payload so simple.
+* __gibaBR__ for Switch Backup Manager, allowing the painful process of managing a Switch library, so much easier.
