@@ -18,15 +18,15 @@ This is in no way coded, or made by me, only very slight changes and is intended
 
 # Homebrew Included
 
-- Awoo Installer (Title Installer)
-- HB Appstore (Homebrew Appstore)
-- NX-Plorer (File Manager)
-- Cheat Updater (Update Cheats)
-- FTPD (FTP Switch Client)
-- Goldleaf (Title Manager)
-- Edizon (Save Manager and Cheat Manager)
-- NX-Ovlloader (Switch Overlay Manager)
-- Tesla-Menu (The Switch Overlay Menu)
+- [Awoo Installer](https://github.com/Huntereb/Awoo-Installer) By Hunterb - Title Installer
+- [Homebrew Appstore](https://github.com/vgmoose/hb-appstore/releases) By vgmoose - Homebrew Appstore
+- [N-Xplorer](https://github.com/CompSciOrBust/N-Xplorer) By CompSciOrBust - File Manager
+- [Cheats Updater](https://github.com/HamletDuFromage/switch-cheats-updater) By HamletDuFromage - A Switch Cheats Updater
+- [FTPD](https://github.com/mtheall/ftpd) By mtheall - FTP Server
+- [Goldleaf](https://github.com/XorTroll/Goldleaf) By XorTroll - Game Title Manager
+- [Edizon](https://github.com/WerWolv/EdiZon) By WerWolv - Game Save Manager
+- [NX-Ovlloader](https://github.com/WerWolv/nx-ovlloader) By WerWolv - Overlay Loader
+- [Tesla Menu](https://github.com/WerWolv/Tesla-Menu) By WerWolv - Overlay Menu
 
 Upcoming Features
 =====
