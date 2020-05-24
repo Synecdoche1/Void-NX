@@ -56,9 +56,6 @@ Upcoming Features
 - Vöid Toolbox
 - Support Pegascape
 
-Upcoming Features
-=====
-
 FAQ
 =====
 
