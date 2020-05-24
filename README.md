@@ -75,7 +75,7 @@ Atmosphere is named from the layer of gasses around the world, and Kosmos is nam
 
 ## Where do I find Sigpatches?
 
-Sigpatches are not provided by default, but you can find them on GBATemp quite easily. 
+Sigpatches are not provided by default, but you can find them on GBA Temp quite easily. 
 
 Credits
 =====
