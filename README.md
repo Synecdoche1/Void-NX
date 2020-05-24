@@ -1,4 +1,4 @@
-![Banner](img/banner.png?raw=true)
+![Banner](img/banner.jpeg?raw=true)
 =====
 
 ***Vöid*** is a work-in-progress customized firmware for the Nintendo Switch, based on ScireM's [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/blob/master/README.md).
