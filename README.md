@@ -83,7 +83,14 @@ Credits
 Vöid is currently being maintained by __Synecdoche__.<br>
 I thank all the following people, in no order, for their amazing homebrew and contributions to the scene.
 
+* __Michael__ for making the logo and banner of Vöid, something I myself wouldn't have done nearly as well.
 * __WerWolv__ for their incredible homebrew, work on Kosmos and help when ever needed.
 * __SciresM__ for the work on Atmosphere, and enabling this scene to blossom through all their hard work.
 * __CTCaer__ for Hekate and Nyx, and the wonderful work they've done for the scene in general.
-
+* __HamletduFromage__ for Cheat Updater, making using cheats so effortless.
+* __XorTroll__ for Goldleaf, and making title management so painless on the Switch.
+* __mtheall__ for FTPD and making moving files to your Switch over FTP so easy.
+* __rajkosto__ for ChoiDujourNX, so we can update to the latest firmware so easily and protecting our Switch.
+* __CompSciOrBust__ for N-Xplorer, making file management a breeze.
+* __vgmoose__ for Homebrew Appstore and making the downloading and management of homebrew applications so easy.
+* __Hunterb__ for making Awoo Installer, making the installation of games so effortless.
