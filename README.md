@@ -27,6 +27,7 @@ This is in no way coded, or made by me, only very slight changes and is intended
 - [Edizon](https://github.com/WerWolv/EdiZon) By WerWolv - Game Save Manager
 - [NX-Ovlloader](https://github.com/WerWolv/nx-ovlloader) By WerWolv - Overlay Loader
 - [Tesla Menu](https://github.com/WerWolv/Tesla-Menu) By WerWolv - Overlay Menu
+- [ChoiDujourNX](https://switchtools.sshnuke.net/) By rajkosto - Firmware Updater Without Burning Fuses
 
 Upcoming Features
 =====
