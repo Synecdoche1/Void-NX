@@ -14,7 +14,7 @@ Download the ZIP in the releases section, unzip the file to a folder of your cho
 - Drag and drop, ready to use from the moment you inject your payload!
 - Works on all Firmware versions, providing you can inject the payload.
 - Incognito enabled by default, using Atmosphere's new Incognito, which doesn't require a back up, or writing directly to NAND!
-  - Enabled for both sysNAND and emuNAND
+  - Enabled for both sysNAND and emuNAND.
   - ***WARNING: THIS IS NOT KNOWN TO BE SAFE AND DOES NOT GUARENTEE YOU PROTECTION.*** 
 - Ready to use homebrew apps, all up to date. Just open your album on the Switch, and have fun!
 - Up-To-Date Atmosphere, always!
