@@ -54,6 +54,7 @@ Download the ZIP in the releases section, unzip the file to a folder of your cho
 
 - [Tegra RCM GUI](https://github.com/eliboa/TegraRcmGUI/releases) By eliboa - PC RCM Payload Injector
 - [Switch Backup Manager](https://github.com/gibaBR) By gibaBR - Switch Game Backup Manager 
+- [NS-USBloader](https://github.com/developersu/ns-usbloader) By developersu - Switch Game Installer for PC 
 
 Upcoming Features
 =====
