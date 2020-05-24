@@ -13,7 +13,7 @@ I am not in any way responsible for anything that happens to your Switch, nor wo
 
 # How To Use
 
-Download the ZIP in the releases section, unzip the file to a folder of your choosing. Three folders are included in this pack, SD Card, Payloads and PC. Just drag and drop the contents of the SD Card folder onto the root of your SD Card. Insert it into your Switch and inject Hekate as you normally would. Launch either SsysNAND or emuNAND as usual, and you're good to go!
+Download the ZIP in the releases section, unzip the file to a folder of your choosing. Three folders are included in this pack, SD Card, Payloads and PC. Just drag and drop the contents of the SD Card folder onto the root of your SD Card. Insert it into your Switch and inject Hekate as you normally would. Launch either sysNAND or emuNAND as usual, and you're good to go!
 
 # Features
 
