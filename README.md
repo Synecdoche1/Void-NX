@@ -10,7 +10,7 @@ This is in no way coded, or made by me, only very slight changes and is intended
 - Drag and drop, ready to use.
 - Incognito enabled by default.
   - Enabled for both Stock and EmuNAND
-  > ***WARNING: THIS IS NOT KNOWN TO BE SAFE AND DOES NOT GUARENTEE YOU PROTECTION.*** 
+  ***WARNING: THIS IS NOT KNOWN TO BE SAFE AND DOES NOT GUARENTEE YOU PROTECTION.*** 
 - Ready to use homebrew apps, up to date.
 - Up-To-Date Atmosphere.
 - PC Tools available in the Zip.
