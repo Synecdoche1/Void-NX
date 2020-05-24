@@ -16,6 +16,18 @@ This is in no way coded, or made by me, only very slight changes and is intended
 - PC Tools available in the Zip.
 - Payloads available to use with a Payload launcher.
 
+# Homebrew Included
+
+- Awoo Installer (Title Installer)
+- HB Appstore (Homebrew Appstore)
+- NX-Plorer (File Manager)
+- Cheat Updater (Update Cheats)
+- FTPD (FTP Switch Client)
+- Goldleaf (Title Manager)
+- Edizon (Save Manager and Cheat Manager)
+- NX-Ovlloader (Switch Overlay Manager)
+- Tesla-Menu (The Switch Overlay Menu)
+
 Upcoming Features
 =====
 
