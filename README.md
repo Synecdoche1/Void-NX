@@ -67,7 +67,7 @@ FAQ
 
 ## What is Vöid?
 
-Vöid is an all-in-one custom firmware for the Ninteno Switch based on [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/blob/master/README.md), in the same kin as Kosmos, entirely focussing on ease of use for any one that wants to set up custom firmware on their Nintento Switch without much effort.
+Vöid is an all-in-one custom firmware for the Ninteno Switch based on [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/blob/master/README.md), in the same kin as Kosmos, entirely focussing on ease of use for anyone that wants to set up custom firmware on their Nintento Switch without much effort.
 
 ## Why "Vöid"?
 
@@ -76,6 +76,19 @@ Atmosphere is named from the layer of gasses around the world, and Kosmos is nam
 ## Where do I find Sigpatches?
 
 Sigpatches are not provided by default, but you can find them on GBA Temp quite easily. 
+
+## You said Incognito isn't known to be safe, what else can I do to protect myself?
+
+First of all, do not install pirated games and run them on your account and then connect to the internet. That is a sure way to get banned.
+If you do want to connect to the internet, and use applications such as Homebrew Appstore, then I'd highly recommend [90DNS](https://gbatemp.net/threads/90dns-dns-server-for-blocking-all-nintendo-servers.516234/)
+
+## Can I contribute?
+
+Sure! Hit me up with a message on what you'd want to do/add and we'll tralk from there.
+
+## Where's your Patreon page?
+
+I don't have one, nor do I feel like adding one. This pack at the time of writing is entirely just an easy to use bundle of what you can make yourself, and taking money from what is almost no effort at this time doesn't sit well with me. If I do end up creating my own apps for this bundle, then I may consider it.
 
 Credits
 =====
