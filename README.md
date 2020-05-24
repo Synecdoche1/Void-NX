@@ -96,6 +96,10 @@ Sure! Hit me up with a message on what you'd want to do/add and we'll talk from 
 
 Discord: Synecdoche#2077
 
+## Is there a Vöid Discord?
+
+Not at the moment, as I don't see a need for one, but if people are interested I'd happily make one.
+
 ## Where's your Patreon page?
 
 I don't have one, nor do I feel like adding one. This pack at the time of writing is entirely just an easy to use bundle of what you can make yourself, and taking money from what is almost no effort at this time doesn't sit well with me. If I do end up creating my own apps for this bundle, then I may consider it.
