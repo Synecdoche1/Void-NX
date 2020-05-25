@@ -31,7 +31,7 @@ Download the ZIP in the releases section, unzip the file to a folder of your cho
   - SD Card: 89.4MB
   - PC Apps: 27.7MB
   - Payloads: 364KB
-  - ZIP: 53MB
+  - ZIP: 59.3MB
 
 # Homebrew Included
 
