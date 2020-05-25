@@ -28,7 +28,7 @@ Download the ZIP in the releases section, unzip the file to a folder of your cho
 - PC Tools available in the Zip, to get you started!
 - Payloads available to use with a Payload launcher.
 - Lightweight! The total size is only:
-  - SD Card: 70.7MB
+  - SD Card: 89.4MB
   - PC Apps: 27.7MB
   - Payloads: 364KB
   - ZIP: 53MB
