@@ -18,6 +18,7 @@ Download the ZIP in the releases section, unzip the file to a folder of your cho
 # Features
 
 - Drag and drop, ready to use from the moment you inject your payload!
+- Sigpatches included by default, to allow you to play your legit backups!
 - Works on all Firmware versions, providing you can inject the payload.
 - Incognito enabled by default, using Atmosphere's new Incognito, which doesn't require a back up, or writing directly to NAND!
   - This is enabled for emuNAND **only** to enable people to go online on sysNAND without issue.
@@ -27,7 +28,7 @@ Download the ZIP in the releases section, unzip the file to a folder of your cho
 - PC Tools available in the Zip, to get you started!
 - Payloads available to use with a Payload launcher.
 - Lightweight! The total size is only:
-  - SD Card: 70.7MB
+  - SD Card: 89.4MB
   - PC Apps: 27.7MB
   - Payloads: 364KB
   - ZIP: 53MB
@@ -44,6 +45,8 @@ Download the ZIP in the releases section, unzip the file to a folder of your cho
 - [NX-Ovlloader](https://github.com/WerWolv/nx-ovlloader) By WerWolv - Overlay Loader
 - [Tesla Menu](https://github.com/WerWolv/Tesla-Menu) By WerWolv - Overlay Menu
 - [ChoiDujourNX](https://switchtools.sshnuke.net/) By rajkosto - Firmware Updater Without Burning Fuses
+- [sys-con](https://github.com/cathery/sys-con) By cathery - Allows 3rd party controller suport
+- [Gamecart Installer](https://github.com/ITotalJustice/Gamecard-Installer-NX/releases) By ITotalJustice - Allows you to install your gamecarts to SD card.
 
 # Payloads Included
 
@@ -75,10 +78,6 @@ Vöid is an all-in-one custom firmware for the Ninteno Switch based on [Atmosphe
 
 Atmosphere is named from the layer of gasses around the world, and Kosmos is named after, well, the Cosmos. Both astronomical in nature, Vöid is named from the emptiness of space, and to "fill the void" of Kosmos.
 
-## Where do I find Sigpatches?
-
-Sigpatches are not provided by default, but you can find them on GBA Temp quite easily. 
-
 ## You said Incognito isn't known to be safe, what else can I do to protect myself?
 
 First of all, do not install pirated games and run them on your account and then connect to the internet. That is a sure way to get banned.
@@ -87,10 +86,6 @@ If you do want to connect to the internet, and use applications such as Homebrew
 ## Why Awoo and Goldleaf? Isn't one enough?
 
 Goldleaf is incredible for title management, but can be a bit broken at times at installing games. This is where Awoo comes in, as it works majority of the time.
-
-## Why can't I install any games? And why wont the ones I have installed launch?
-
-You need Sigpatches in order to both of those things. These are not included in this custom firmware. You can find them via Google or on GBA Temp quite easily. 
 
 ## Can I contribute?
 
@@ -128,3 +123,5 @@ I thank all the following people, in no order, for their amazing homebrew and co
 * __shchmue__ for Lockpick, and making the task of getting keys, so much easier.
 * __suchmememanyskill__ for Tegra Explorer, and making managing files via a payload so simple.
 * __gibaBR__ for Switch Backup Manager, allowing the painful process of managing a Switch library, so much easier.
+* __cathery__ for sys-con, allowing the the use of third party controllers.
+* __ITotalJustice__ for Gamecart Installer, allowing us to back up our games.
