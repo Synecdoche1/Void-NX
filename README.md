@@ -74,6 +74,8 @@ FAQ
 
 Vöid is an all-in-one custom firmware for the Ninteno Switch based on [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/blob/master/README.md), in the same kin as Kosmos, entirely focussing on ease of use for anyone that wants to set up custom firmware on their Nintento Switch without much effort.
 
+***I AM NOT INVOLVED WITH OR AFFILIATED IN ANY WAY WITH KOSMOS, OR THE KOSMOS TEAM. THIS IS NOT KOSMOS 2.0.***
+
 ## Why "Vöid"?
 
 Atmosphere is named from the layer of gasses around the world, and Kosmos is named after, well, the Cosmos. Both astronomical in nature, Vöid is named from the emptiness of space, and to "fill the void" of Kosmos.
