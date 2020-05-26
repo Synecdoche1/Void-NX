@@ -89,6 +89,10 @@ If you do want to connect to the internet, and use applications such as Homebrew
 
 Goldleaf is incredible for title management, but can be a bit broken at times at installing games. This is where Awoo comes in, as it works majority of the time.
 
+## Does HBG Shop work with this?
+
+Unfortunately no, as this uses Hekate it will not run on Vöid. There are ways around this, but at this time I will not be enabling this.
+
 ## Can I contribute?
 
 Sure! Hit me up with a message on what you'd want to do/add and we'll talk from there.
