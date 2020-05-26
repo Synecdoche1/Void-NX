@@ -76,7 +76,7 @@ Vöid is an all-in-one custom firmware for the Ninteno Switch based on [Atmosphe
 
 ***I AM NOT INVOLVED WITH OR AFFILIATED IN ANY WAY WITH KOSMOS, OR THE KOSMOS TEAM. THIS IS NOT KOSMOS 2.0.***
 
-## Why "Vöid"?
+## Why ""?
 
 Atmosphere is named from the layer of gasses around the world, and Kosmos is named after, well, the Cosmos. Both astronomical in nature, Vöid is named from the emptiness of space, and to "fill the void" of Kosmos.
 
@@ -88,6 +88,10 @@ If you do want to connect to the internet, and use applications such as Homebrew
 ## Why Awoo and Goldleaf? Isn't one enough?
 
 Goldleaf is incredible for title management, but can be a bit broken at times at installing games. This is where Awoo comes in, as it works majority of the time.
+
+## Does HBG Shop work with this?
+
+Unfortunately no, as this uses Hekate it will not run on Vöid. There are ways around this, but at this time I will not be enabling this.
 
 ## Can I contribute?
 
