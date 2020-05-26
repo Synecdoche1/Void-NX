@@ -1,0 +1,11 @@
+{
+  "title": "Gamecard-Installer-NX",
+  "author": "ITotalJustice",
+  "category": "tool",
+  "version": "2.0.1",
+  "url": "https://github.com/ITotalJustice/Gamecard-Installer-NX/releases",
+  "license": "GPLv3",
+  "description": "A way to install your gamecards directly to the switch",
+  "details": "Gamecard Installer NX is an app that can install your gamecards directly to your switch!\\n\\nFeatures:\\n- Support for gamecards with multiple games inside.\\n- Display useful gamecard information such as: app_id, key_gen and size.\\n- Full touchscreen support.\\n- Display the available space on SD card and system NAND from within the app. Automatically updated after installing the game.\\n- Display error codes to the user should anything go wrong (hopefully you wouldn’t see any!).\\n- Background music support. Drop any .mp3 files into ‘/switch/gamecard_installer/’ and it will play the songs at random.\\n",
+  "changelog": "2.0.1\\n\\nFixed the option to enter the game-info menu whilst a gamecard ins't inserted. Thanks #18\\n\\nFixed an non-free error in which exiting the game-info menu would cause the textures to not be freed.\\n\\nFixed an edge-case crash for if a user mounted a xci which didn't contain a base entry. This will also fix a crash if the gamecard has no base, upp, dlc entries at all (no one would ever experience this anyway).\\n\\n2.0.0\\n\\nLot's of changes to the code. Now the cnmt is parsed as the gamecard is mounted. This means that sigpatches aren't need for the app anymore, however, patches will still be need to actually play the game.\\n\\nInstall speed is now faster, there's a lot more info about the gamecard and it's contents displayed and there's a few settings to play around with!\\n\\n1.0.1\\n\\nIncorrectly returned the sys version number (fw 8.1.0 would be returned as 8.0.1).\\nBug that would cause the installed game to sometimes appear as a gamecard, even with the gamecard removed.\\nFixed bug that would make it so that it would sometimes not push the correct application record which caused game updates that was previously installed to say that it was not.\\n\\n1.0\\n\\nInitial Release"
+}

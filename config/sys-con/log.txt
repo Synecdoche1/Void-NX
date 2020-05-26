@@ -1,0 +1,4 @@
+2020-05-26 16:33:33: 
+
+New sysmodule session started on version 0.6.1
+2020-05-26 16:33:34: Starting config check thread!
