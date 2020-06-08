@@ -13,18 +13,13 @@ I am not in any way responsible for anything that happens to your Switch, nor wo
 
 <!--ts-->
    * [How To Use](#How-To-Use)
-   * [Table of contents](#table-of-contents)
-   * [Installation](#installation)
-   * [Usage](#usage)
-      * [STDIN](#stdin)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-      * [Auto insert and update TOC](#auto-insert-and-update-toc)
-      * [GitHub token](#github-token)
-   * [Tests](#tests)
-   * [Dependency](#dependency)
+   * [Features](#features)
+   * [Homebrew Included](#homebrew-included)
+   * [Payloads Included](#payloads-included)
+   * [PC Tools Included](#pc-tools-included)
+   * [Upcoming Features](#upcoming-features)
+   * [FAQ](#faq)
+   * [Credits](#credits)
 <!--te-->
 
 # How To Use
