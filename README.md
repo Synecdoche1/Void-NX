@@ -11,6 +11,22 @@ This is in no way coded, or made by me, only very slight changes and is intended
 
 I am not in any way responsible for anything that happens to your Switch, nor would I expect anything to happen. Use at your own discretion. When modifying anything on your Switch you are always at risk at possible damage, or an account ban from Nintendo. Use at your own risk.
 
+<!--ts-->
+   * [How To Use](#How To Use)
+   * [Table of contents](#table-of-contents)
+   * [Installation](#installation)
+   * [Usage](#usage)
+      * [STDIN](#stdin)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+      * [Auto insert and update TOC](#auto-insert-and-update-toc)
+      * [GitHub token](#github-token)
+   * [Tests](#tests)
+   * [Dependency](#dependency)
+<!--te-->
+
 # How To Use
 
 Download the ZIP in the releases section, unzip the file to a folder of your choosing. Three folders are included in this pack, SD Card, Payloads and PC. Just drag and drop the contents of the SD Card folder onto the root of your SD Card. Insert it into your Switch and inject Hekate as you normally would. Launch either sysNAND or emuNAND as usual, and you're good to go!
@@ -19,6 +35,7 @@ Download the ZIP in the releases section, unzip the file to a folder of your cho
 
 - Drag and drop, ready to use from the moment you inject your payload!
 - Sigpatches included by default, to allow you to play your legit backups!
+- Boots through Hekate using Fusee-Primary, making it HGB ready.
 - Works on all Firmware versions, providing you can inject the payload.
 - Incognito enabled by default, using Atmosphere's new Incognito, which doesn't require a back up, or writing directly to NAND!
   - This is enabled for emuNAND **only** to enable people to go online on sysNAND without issue.
@@ -27,6 +44,7 @@ Download the ZIP in the releases section, unzip the file to a folder of your cho
 - Up-To-Date Atmosphere, always!
 - PC Tools available in the Zip, to get you started!
 - Payloads available to use with a Payload launcher.
+- A full and lite version available.
 - Lightweight! The total size is only:
   - SD Card: 89.4MB
   - PC Apps: 27.7MB
