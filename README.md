@@ -37,14 +37,11 @@ Download the ZIP in the releases section, unzip the file to a folder of your cho
   - ***WARNING: THIS IS NOT KNOWN TO BE SAFE AND DOES NOT GUARENTEE YOU PROTECTION.*** 
 - Ready to use homebrew apps, all up to date. Just open your album on the Switch, and have fun!
 - Up-To-Date Atmosphere, always!
+- HB Appstore recognises what you have installed, so in the future you can update your apps yourself!
 - PC Tools available in the Zip, to get you started!
 - Payloads available to use with a Payload launcher.
 - A full and lite version available.
-- Lightweight! The total size is only:
-  - SD Card: 89.4MB
-  - PC Apps: 27.7MB
-  - Payloads: 364KB
-  - ZIP: 59.3MB
+- Lightweight! 
 
 # Homebrew Included
 
@@ -60,6 +57,10 @@ Download the ZIP in the releases section, unzip the file to a folder of your cho
 - [ChoiDujourNX](https://switchtools.sshnuke.net/) By rajkosto - Firmware Updater Without Burning Fuses
 - [sys-con](https://github.com/cathery/sys-con) By cathery - Allows 3rd party controller suport
 - [Gamecart Installer](https://github.com/ITotalJustice/Gamecard-Installer-NX/releases) By ITotalJustice - Allows you to install your gamecarts to SD card.
+- [NX Themes Injector](https://github.com/exelix11/SwitchThemeInjector) By exelix11 - Allows you to install custom themes.
+- [VG Edit](https://github.com/vgmoose/vgedit) By VGMoose - A fantastic text editor.
+- [Amiigo](https://github.com/CompSciOrBust/Amiigo) By ComSciOrBust - A GUI to use with emuiibo.
+- [SYS-Tune Overlay](https://github.com/HookedBehemoth/sys-tune/releases/tag/v1.1.2) By Hooked Behemoth - An overlay that allows you to listen to music while playing games!
 
 # Payloads Included
 
@@ -98,13 +99,17 @@ Atmosphere is named from the layer of gasses around the world, and Kosmos is nam
 First of all, do not install pirated games and run them on your account and then connect to the internet. That is a sure way to get banned.
 If you do want to connect to the internet, and use applications such as Homebrew Appstore, then I'd highly recommend [90DNS](https://gbatemp.net/threads/90dns-dns-server-for-blocking-all-nintendo-servers.516234/)
 
+## How do I use overlays?
+
+Press L + R Up to load the overlay menu.
+
 ## Why Awoo and Goldleaf? Isn't one enough?
 
 Goldleaf is incredible for title management, but can be a bit broken at times at installing games. This is where Awoo comes in, as it works majority of the time.
 
 ## Does HBG Shop work with this?
 
-Unfortunately no, as this uses Hekate it will not run on Vöid. There are ways around this, but at this time I will not be enabling this.
+Hekate has been set up to run Fusee Primary, so for all intents and purposes HGB Shop should work.
 
 ## Can I contribute?
 
