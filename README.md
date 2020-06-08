@@ -12,7 +12,7 @@ This is in no way coded, or made by me, only very slight changes and is intended
 I am not in any way responsible for anything that happens to your Switch, nor would I expect anything to happen. Use at your own discretion. When modifying anything on your Switch you are always at risk at possible damage, or an account ban from Nintendo. Use at your own risk.
 
 <!--ts-->
-   * [How To Use](#How To Use)
+   * [How To Use](#How-To-Use)
    * [Table of contents](#table-of-contents)
    * [Installation](#installation)
    * [Usage](#usage)
