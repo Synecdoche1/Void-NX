@@ -3,13 +3,13 @@
 
 ***Vöid*** is a work-in-progress customized firmware for the Nintendo Switch, based on ScireM's [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/blob/master/README.md).
 
-This is in no way coded, or made by me, only very slight changes and is intended to be an all-in-one packages to make installing customer firmware painless.
+This is in no way coded, or made by me, only very slight changes and is intended to be an all-in-one package to make installing customer firmware painless.
 
 # DISCLAIMER
 
 ***MAKE A NAND BACK UP THROUGH HEKATE BEFORE DOING ANYTHING TO YOUR SWITCH! YOU HAVE BEEN WARNED!***
 
-I am not in any way responsible for anything that happens to your Switch, nor would I expect anything to happen. Use at your own discretion. When modifying anything on your Switch you are always at risk at possible damage, or an account ban from Nintendo. Use at your own risk.
+I am not in any way responsible for anything that happens to your Switch, nor would I expect anything to happen. Use at your discretion. When modifying anything on your Switch you are always at risk at possible damage, or an account ban from Nintendo. Use it at your own risk.
 
 <!--ts-->
    * [How To Use](#How-To-Use)
@@ -24,7 +24,7 @@ I am not in any way responsible for anything that happens to your Switch, nor wo
 
 # How To Use
 
-Download the ZIP in the releases section, unzip the file to a folder of your choosing. Three folders are included in this pack, SD Card, Payloads and PC. Just drag and drop the contents of the SD Card folder onto the root of your SD Card. Insert it into your Switch and inject Hekate as you normally would. Launch either sysNAND or emuNAND as usual, and you're good to go!
+Download the ZIP in the releases section, unzip the file to a folder of your choosing. Three folders are included in this pack, SD Card, Payloads, and PC. Just drag and drop the contents of the SD Card folder onto the root of your SD Card. Insert it into your Switch and inject Hekate as you normally would. Launch either sysNAND or emuNAND as usual, and you're good to go!
 
 # Features
 
@@ -32,14 +32,14 @@ Download the ZIP in the releases section, unzip the file to a folder of your cho
 - Sigpatches included by default, to allow you to play your legit backups!
 - Boots through Hekate using Fusee-Primary, making it HGB ready.
 - Works on all Firmware versions, providing you can inject the payload.
-- Incognito enabled by default, using Atmosphere's new Incognito, which doesn't require a back up, or writing directly to NAND!
+- Incognito enabled by default, using the Atmosphere's new Incognito, which doesn't require a backup, or writing directly to NAND!
   - This is enabled for emuNAND **only** to enable people to go online on sysNAND without issue.
-  - ***WARNING: THIS IS NOT KNOWN TO BE SAFE AND DOES NOT GUARENTEE YOU PROTECTION.*** 
+  - ***WARNING: THIS IS NOT KNOWN TO BE SAFE AND DOES NOT GUARANTEE YOU PROTECTION.*** 
 - Ready to use homebrew apps, all up to date. Just open your album on the Switch, and have fun!
 - Up-To-Date Atmosphere, always!
-- HB Appstore recognises what you have installed, so in the future you can update your apps yourself!
-- PC Tools available in the Zip, to get you started!
-- Payloads available to use with a Payload launcher.
+- HB Appstore recognises what you have installed, so in the future, you can update your apps yourself!
+- PC Tools are available in the Zip, to get you started!
+- Payloads are available to use with a Payload launcher.
 - A full and lite version available.
 - Lightweight! 
 
@@ -55,8 +55,8 @@ Download the ZIP in the releases section, unzip the file to a folder of your cho
 - [NX-Ovlloader](https://github.com/WerWolv/nx-ovlloader) By WerWolv - Overlay Loader
 - [Tesla Menu](https://github.com/WerWolv/Tesla-Menu) By WerWolv - Overlay Menu
 - [ChoiDujourNX](https://switchtools.sshnuke.net/) By rajkosto - Firmware Updater Without Burning Fuses
-- [sys-con](https://github.com/cathery/sys-con) By cathery - Allows 3rd party controller suport
-- [Gamecart Installer](https://github.com/ITotalJustice/Gamecard-Installer-NX/releases) By ITotalJustice - Allows you to install your gamecarts to SD card.
+- [sys-con](https://github.com/cathery/sys-con) By cathery - Allows 3rd party controller support
+- [Gamecart Installer](https://github.com/ITotalJustice/Gamecard-Installer-NX/releases) By ITotalJustice - Allows you to install your game carts to SD card.
 - [NX Themes Injector](https://github.com/exelix11/SwitchThemeInjector) By exelix11 - Allows you to install custom themes.
 - [VG Edit](https://github.com/vgmoose/vgedit) By VGMoose - A fantastic text editor.
 - [Amiigo](https://github.com/CompSciOrBust/Amiigo) By ComSciOrBust - A GUI to use with emuiibo.
@@ -86,18 +86,18 @@ FAQ
 
 ## What is Vöid?
 
-Vöid is an all-in-one custom firmware for the Ninteno Switch based on [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/blob/master/README.md), in the same kin as Kosmos, entirely focussing on ease of use for anyone that wants to set up custom firmware on their Nintento Switch without much effort.
+Vöid is an all-in-one custom firmware for the Nintendo Switch based on [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/blob/master/README.md), in the same kin as Kosmos, entirely focussing on ease of use for anyone that wants to set up custom firmware on their Nintendo Switch without much effort.
 
 ***I AM NOT INVOLVED WITH OR AFFILIATED IN ANY WAY WITH KOSMOS, OR THE KOSMOS TEAM. THIS IS NOT KOSMOS 2.0.***
 
 ## Why "Vöid"?
 
-Atmosphere is named from the layer of gasses around the world, and Kosmos is named after, well, the Cosmos. Both astronomical in nature, Vöid is named from the emptiness of space, and to "fill the void" of Kosmos.
+Atmosphere is named after the layer of gasses around the world, and Kosmos is named after, well, the Cosmos. Both astronomical, Vöid is named from the emptiness of space, and to "fill the void" of Kosmos.
 
 ## You said Incognito isn't known to be safe, what else can I do to protect myself?
 
 First of all, do not install pirated games and run them on your account and then connect to the internet. That is a sure way to get banned.
-If you do want to connect to the internet, and use applications such as Homebrew Appstore, then I'd highly recommend [90DNS](https://gbatemp.net/threads/90dns-dns-server-for-blocking-all-nintendo-servers.516234/)
+If you do want to connect to the internet and use applications such as Homebrew Appstore, then I'd highly recommend [90DNS](https://gbatemp.net/threads/90dns-dns-server-for-blocking-all-nintendo-servers.516234/)
 
 ## How do I use overlays?
 
@@ -105,11 +105,11 @@ Press L + R Up to load the overlay menu.
 
 ## Why Awoo and Goldleaf? Isn't one enough?
 
-Goldleaf is incredible for title management, but can be a bit broken at times at installing games. This is where Awoo comes in, as it works majority of the time.
+Goldleaf is incredible for title management but can be a bit broken at times at installing games. This is where Awoo comes in, as it works the majority of the time.
 
 ## Does HBG Shop work with this?
 
-Hekate has been set up to run Fusee Primary, so for all intents and purposes HGB Shop should work.
+Hekate has been set up to run Fusee Primary, so for all intents and purposes, HGB Shop should work.
 
 ## Can I contribute?
 
@@ -131,21 +131,25 @@ Credits
 Vöid is currently being maintained by __Synecdoche__.<br>
 I thank all the following people, in no order, for their amazing homebrew and contributions to the scene.
 
-* __Michael__ for making the logo and banner of Vöid, something I myself wouldn't have done nearly as well.
-* __WerWolv__ for their incredible homebrew, work on Kosmos and help when ever needed.
+* __Michael__ for making the logo and banner of Vöid, something I wouldn't have done nearly as well.
+* __WerWolv__ for their incredible homebrew, work on Kosmos and help whenever needed.
 * __SciresM__ for the work on Atmosphere, and enabling this scene to blossom through all their hard work.
 * __CTCaer__ for Hekate and Nyx, and the wonderful work they've done for the scene in general.
 * __HamletduFromage__ for Cheat Updater, making using cheats so effortless.
 * __XorTroll__ for Goldleaf, and making title management so painless on the Switch.
 * __mtheall__ for FTPD and making moving files to your Switch over FTP so easy.
 * __rajkosto__ for ChoiDujourNX, so we can update to the latest firmware so easily and protecting our Switch.
-* __CompSciOrBust__ for N-Xplorer, making file management a breeze.
-* __vgmoose__ for Homebrew Appstore and making the downloading and management of homebrew applications so easy.
+* __CompSciOrBust__ for N-Xplorer and Amiigo, making file management a breeze, and the use of Amiibos no effort at all.
+* __vgmoose__ for Homebrew Appstore and VGEdit and making the downloading and management of homebrew applications so easy, as well as making text editting a breeze.
 * __Hunterb__ for making Awoo Installer, making the installation of games so effortless.
 * __developersu__ for NS-USBloader, and making it incredibly easy to install games with a PC.
 * __eliboa__ for Tegra RCM GUI, making launching your Switch via a PC a breeze.
 * __shchmue__ for Lockpick, and making the task of getting keys, so much easier.
 * __suchmememanyskill__ for Tegra Explorer, and making managing files via a payload so simple.
 * __gibaBR__ for Switch Backup Manager, allowing the painful process of managing a Switch library, so much easier.
-* __cathery__ for sys-con, allowing the the use of third party controllers.
+* __cathery__ for sys-con, allowing the use of third party controllers.
 * __ITotalJustice__ for Gamecart Installer, allowing us to back up our games.
+* __exelix11__ for Switch Theme Injector, allowing us have custom themes on the Switch.
+* __Amiigo__ for Switch Theme Injector, allowing us have custom themes on the Switch.
+* __exelix11__ for Switch Theme Injector, allowing us have custom themes on the Switch.
+* __HookedBehemoth__ for SYS Tune Overlay, allowing us to listen to music while we play.
