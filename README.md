@@ -101,7 +101,7 @@ If you do want to connect to the internet and use applications such as Homebrew 
 
 ## How do I use overlays?
 
-Press L + R Up to load the overlay menu.
+Press L + R + Up to load the overlay menu.
 
 ## Why Awoo and Goldleaf? Isn't one enough?
 
