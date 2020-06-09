@@ -150,6 +150,4 @@ I thank all the following people, in no order, for their amazing homebrew and co
 * __cathery__ for sys-con, allowing the use of third party controllers.
 * __ITotalJustice__ for Gamecart Installer, allowing us to back up our games.
 * __exelix11__ for Switch Theme Injector, allowing us have custom themes on the Switch.
-* __Amiigo__ for Switch Theme Injector, allowing us have custom themes on the Switch.
-* __exelix11__ for Switch Theme Injector, allowing us have custom themes on the Switch.
 * __HookedBehemoth__ for SYS Tune Overlay, allowing us to listen to music while we play.
