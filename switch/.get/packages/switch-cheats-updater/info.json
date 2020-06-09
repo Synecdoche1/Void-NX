@@ -1,0 +1,11 @@
+{
+  "title": "switch-cheats-updater",
+  "author": "HamletDuFromage",
+  "category": "tool",
+  "version": "1.2.1",
+  "url": "https://github.com/HamletDuFromage/switch-cheats-updater/releases",
+  "license": "GPLv3",
+  "description": "Update your cheat files for your games",
+  "details": "A Nintendo Switch homebrew app to automatically update your cheat files for your installed games, gamecarts and XCIs. Supports Atmosphere, ReiNX and SXOS.\\n\\nFetches the latest cheats from the gbatemp general thread through my mirror (updates once a day)\\nBlacklist titles\\n\\nBy default, this homebrew will overwrite the existing cheats. If you have your own cheat files that you'd like to keep as is, you may add the title IDs of the corresponding games, one ID per line, to /config/cheats-updater/exclude.txt. Use http://tinfoil.io/title to find the title ID of a game.",
+  "changelog": "1.2.1\\n\\nNow supports ReiNX\\n\\n1.2.0\\n\\nMultiple QOL improvments\\n\\n1.1.7\\n\\nCreates a /sxos directory in the sd card root for those who don't already have it (and experience a black screen because of it)\\n\\n1.1.6\\n\\nYou can now prevent cheats for a specific game to be overwritten by listing them, one per line, in config/cheats-updater/exclude.txt\\n\\n1.1.4\\n\\nAdded XCI support for SXOS users\\n\\n1.1.3\\n\\nFixed a dumb path typo that resulted in SXOS users getting a blank screen\\n\\n1.1.1\\n\\nThe homebrew now detects games installed to NAND and gamecards\\n\\n1.1\\n\\nAdded cheats deletion and opt-in instructions download"
+}
