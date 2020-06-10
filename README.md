@@ -17,6 +17,8 @@ I do not condone the use of Piracy in any way. Sigpatches are included purely fo
 
 I am not in any way responsible for anything that happens to your Switch, nor would I expect anything to happen. Use at your discretion. When modifying anything on your Switch you are always at risk at possible damage, or an account ban from Nintendo. Use it at your own risk.
 
+# Table of Contents
+
 <!--ts-->
    * [How To Use](#How-To-Use)
    * [Features](#features)
