@@ -90,7 +90,7 @@ Upcoming Features
   - Currently not planned as not to promise a feature I cannot support at this time.
 - [ ] Support Pegascape
   - As far as I know, you can use Vöid on a Pegascape Switch as normal, but cannot verify at this time. **USE AT YOUR OWN RISK**
-- [x] Enable sipatches by default
+- [x] Enable sigpatches by default
 - [x] Enable chainloading to use with HBG Shop
 - [x] Include a Vöid Lite, for people who don't want the Payloads or PC Tools.
 
