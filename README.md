@@ -1,7 +1,7 @@
 ![Banner](img/banner.jpeg?raw=true)
 =====
 
-![Downloads](https://img.shields.io/github/downloads/Synecdoche1/Void-NX/total) ![Release](https://img.shields.io/github/v/release/Synecdoche1/Void-NX) ![Licence](https://img.shields.io/github/license/Synecdoche1/Void-NX)
+![Downloads](https://img.shields.io/github/downloads/Synecdoche1/Void-NX/total) ![Release](https://img.shields.io/github/v/release/Synecdoche1/Void-NX) ![Licence](https://img.shields.io/github/license/Synecdoche1/Void-NX) ![GitHub Stars](https://img.shields.io/github/stars/Synecdoche1/Void-NX?style=social) 
 
 ***Vöid*** is a work-in-progress customized firmware for the Nintendo Switch, based on ScireM's [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/blob/master/README.md).
 
