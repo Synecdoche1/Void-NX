@@ -7,7 +7,7 @@
 
 This is in no way coded, or made by me, only very slight changes and is intended to be an all-in-one package to make installing customer firmware painless.
 
-![Banner](img/disclaimer.jpg?raw=true)
+# DISCLAIMER
 
 ***MAKE A NAND BACK UP THROUGH HEKATE BEFORE DOING ANYTHING TO YOUR SWITCH! YOU HAVE BEEN WARNED!***
 
@@ -27,7 +27,7 @@ I am not in any way responsible for anything that happens to your Switch, nor wo
    * [Credits](#credits)
 <!--te-->
 
-![Banner](img/htu.jpg?raw=true)
+# How To Use
 
 - Download the latest flavour of ZIP in the releases section. 
   - I recommend using a clean SD Card. You can do this by formatting the card, or simply deleting everything **__EXCEPT__** for Nintendo and emummc (if you have an emuNAND)
@@ -36,7 +36,7 @@ I am not in any way responsible for anything that happens to your Switch, nor wo
 - Inject your favourite Payload into your Switch as you normally would. I recommend Hekate, and booting into either sysNAND or emuNAND.
 Enjoy!
 
-![Banner](img/features.jpg?raw=true)
+# Features
 
 - Drag and drop, ready to use from the moment you inject your payload!
 - Sigpatches included by default, to allow you to play your legit backups!
@@ -53,7 +53,7 @@ Enjoy!
 - A full and lite version available.
 - Lightweight! 
 
-![Banner](img/hi.jpg?raw=true)
+# Homebrew Included
 
 - [Awoo Installer](https://github.com/Huntereb/Awoo-Installer) By Hunterb - Title Installer
 - [Homebrew Appstore](https://github.com/vgmoose/hb-appstore/releases) By vgmoose - Homebrew Appstore
@@ -72,19 +72,20 @@ Enjoy!
 - [Amiigo](https://github.com/CompSciOrBust/Amiigo) By ComSciOrBust - A GUI to use with emuiibo.
 - [SYS-Tune Overlay](https://github.com/HookedBehemoth/sys-tune/releases/tag/v1.1.2) By Hooked Behemoth - An overlay that allows you to listen to music while playing games!
 
-![Banner](img/pli.jpg?raw=true)
+# Payloads Included
 
 - [Hekate](https://github.com/CTCaer/hekate/releases) By CTCaer - Custom Firmware Launcher and emuNAND Creator.
 - [Lockpick RCM](https://github.com/shchmue/Lockpick_RCM/releases) By shchmue - Generates Encryption Keys
 - [Tegra Explorer](https://github.com/suchmememanyskill/TegraExplorer) By suchmememanyskill - Payload Based File Explorer
 
-![Banner](img/pti.jpg?raw=true)
+# PC Tools Included
 
 - [Tegra RCM GUI](https://github.com/eliboa/TegraRcmGUI/releases) By eliboa - PC RCM Payload Injector
 - [Switch Backup Manager](https://github.com/gibaBR) By gibaBR - Switch Game Backup Manager 
 - [NS-USBloader](https://github.com/developersu/ns-usbloader) By developersu - Switch Game Installer for PC 
 
-![Banner](img/ucf.jpg?raw=true)
+Upcoming Features
+=====
 
 - [ ] Vöid Updater
   - Currently not planned as not to promise a feature I cannot support at this time.
@@ -96,54 +97,56 @@ Enjoy!
 - [x] Enable chainloading to use with HBG Shop
 - [x] Include a Vöid Lite, for people who don't want the Payloads or PC Tools.
 
-![Banner](img/faq.jpg?raw=true)
+FAQ
+=====
 
-![Banner](img/what.jpg?raw=true)
+- ## What is Vöid?
 
-Vöid is an all-in-one custom firmware for the Nintendo Switch based on [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/blob/master/README.md), in the same kin as Kosmos, entirely focussing on ease of use for anyone that wants to set up custom firmware on their Nintendo Switch without much effort.
+     - Vöid is an all-in-one custom firmware for the Nintendo Switch based on [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/blob/master/README.md), in the same kin as Kosmos, entirely focussing on ease of use for anyone that wants to set up custom firmware on their Nintendo Switch without much effort.
 
 ***I AM NOT INVOLVED WITH OR AFFILIATED IN ANY WAY WITH KOSMOS, OR THE KOSMOS TEAM. THIS IS NOT KOSMOS 2.0.***
 
-![Banner](img/why.jpg?raw=true)
+- ## Why "Vöid"?
 
-Atmosphere is named after the layer of gasses around the world, and Kosmos is named after, well, the Cosmos. Both astronomical, Vöid is named from the emptiness of space, and to "fill the void" of Kosmos.
+     - Atmosphere is named after the layer of gasses around the world, and Kosmos is named after, well, the Cosmos. Both astronomical, Vöid is named from the emptiness of space, and to "fill the void" of Kosmos.
 
-![Banner](img/safe.jpg?raw=true)
+- ## You said Incognito isn't known to be safe, what else can I do to protect myself?
 
-First of all, do not install pirated games and run them on your account and then connect to the internet. That is a sure way to get banned.
-If you do want to connect to the internet and use applications such as Homebrew Appstore, then I'd highly recommend [90DNS](https://gbatemp.net/threads/90dns-dns-server-for-blocking-all-nintendo-servers.516234/)
+     - First of all, do not install pirated games and run them on your account and then connect to the internet. That is a sure way to get banned.
+     - If you do want to connect to the internet and use applications such as Homebrew Appstore, then I'd highly recommend [90DNS](https://gbatemp.net/threads/90dns-dns-server-for-blocking-all-nintendo-servers.516234/)
 
-![Banner](img/overlay.jpg?raw=true)
+- ## How do I use overlays?
 
-Press L + R + Up to load the overlay menu.
+     - Press L + R + Up to load the overlay menu.
 
-![Banner](img/awoo.jpg?raw=true)
+- ## Why Awoo and Goldleaf? Isn't one enough?
 
-Goldleaf is incredible for title management but can be a bit broken at times at installing games. This is where Awoo comes in, as it works the majority of the time.
+     - Goldleaf is incredible for title management but can be a bit broken at times at installing games. This is where Awoo comes in, as it works the majority of the time.
 
-![Banner](img/hbg.jpg?raw=true)
+- ## Does HBG Shop work with this?
 
-Hekate has been set up to run Fusee Primary, so for all intents and purposes, HGB Shop should work.
+     - Hekate has been set up to run Fusee Primary, so for all intents and purposes, HGB Shop should work.
 
-![Banner](img/cont.jpg?raw=true)
+- ## Can I contribute?
 
-Sure! Hit me up with a message on what you'd want to do/add and we'll talk from there.
-Discord: Synecdoche#2077
+     - Sure! Hit me up with a message on what you'd want to do/add and we'll talk from there.
 
-![Banner](img/discord.jpg?raw=true)
+     - Discord: Synecdoche#2077
 
-Not at the moment, as I don't see a need for one, but if people are interested I'd happily make one.
+- ## Is there a Vöid Discord?
 
-![Banner](img/patreon.jpg?raw=true)
+     - Not at the moment, as I don't see a need for one, but if people are interested I'd happily make one.
 
-I don't have one, nor do I feel like adding one. This pack at the time of writing is entirely just an easy to use bundle of what you can make yourself, and taking money from what is almost no effort at this time doesn't sit well with me. If I do end up creating my own apps for this bundle, then I may consider it.
+- ## Where's your Patreon page?
 
-![Banner](img/license.jpg?raw=true)
+     - I don't have one, nor do I feel like adding one. This pack at the time of writing is entirely just an easy to use bundle of what you can make yourself, and taking money from what is almost no effort at this time doesn't sit well with me. If I do end up creating my own apps for this bundle, then I may consider it.
+
+## License
 
 This project is licensed under the [GPL 3.0 License](https://choosealicense.com/licenses/gpl-3.0/) - see the [LICENSE.md](LICENSE.md) file for details
 
-![Banner](img/credits.jpg?raw=true)
-
+Credits
+=====
 
 Vöid is currently being maintained by __Synecdoche__.<br>
 I thank all the following people, in no order, for their amazing homebrew and contributions to the scene.
