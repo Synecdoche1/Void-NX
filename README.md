@@ -10,6 +10,7 @@ This is in no way coded, or made by me, only very slight changes and is intended
 # DISCLAIMER
 
 ***MAKE A NAND BACK UP THROUGH HEKATE BEFORE DOING ANYTHING TO YOUR SWITCH! YOU HAVE BEEN WARNED!***
+Please use [this guide](https://switch.homebrew.guide/usingcfw/hekate.html) to make a full NAND backup before continuing. If you already have a full NAND backup, and it's safe and sound, then please continue.
 
 I do not condone the use of Piracy in any way. Sigpatches are included purely for use of your own legal Nintendo Switch backups and not for the illegal download or use of Nintendo Switch games. I will not offer support, links or advice on how to pirate in any shape or form.
 
