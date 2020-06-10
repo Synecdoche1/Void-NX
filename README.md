@@ -26,7 +26,7 @@ I am not in any way responsible for anything that happens to your Switch, nor wo
    * [PC Tools Included](#pc-tools-included)
    * [Upcoming Features](#upcoming-features)
    * [FAQ](#faq)
-   * [Licence](#licence)
+   * [License](#license)
    * [Credits](#credits)
 <!--te-->
 
