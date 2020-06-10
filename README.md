@@ -26,7 +26,12 @@ I am not in any way responsible for anything that happens to your Switch, nor wo
 
 # How To Use
 
-Download the ZIP in the releases section, unzip the file to a folder of your choosing. Three folders are included in this pack, SD Card, Payloads, and PC. Just drag and drop the contents of the SD Card folder onto the root of your SD Card. Insert it into your Switch and inject Hekate as you normally would. Launch either sysNAND or emuNAND as usual, and you're good to go!
+- Download the latest flavour of ZIP in the releases section. 
+  - I recommend using a clean SD Card. You can do this by formatting the card, or simply deleting everything **__EXCEPT__** for Nintendo and emummc (if you have an emuNAND)
+- Place the contents of the SD folder (or the contents of the Lite ZIP folder) directly to the root of your SD Card.
+- Place the SD Card back into your Switch.
+- Inject your favourite Payload into your Switch as you normally would. I recommend Hekate, and booting into either sysNAND or emuNAND.
+Enjoy!
 
 # Features
 
@@ -79,9 +84,15 @@ Download the ZIP in the releases section, unzip the file to a folder of your cho
 Upcoming Features
 =====
 
-- Vöid Updater
-- Vöid Toolbox
-- Support Pegascape
+- [ ] Vöid Updater
+  - Currently not planned as not to promise a feature I cannot support at this time.
+- [ ] Vöid Toolbox
+  - Currently not planned as not to promise a feature I cannot support at this time.
+- [ ] Support Pegascape
+  - As far as I know, you can use Vöid on a Pegascape Switch as normal, but cannot verify at this time. **USE AT YOUR OWN RISK**
+- [x] Enable sipatches by default
+- [x] Enable chainloading to use with HBG Shop
+- [x] Include a Vöid Lite, for people who don't want the Payloads or PC Tools.
 
 FAQ
 =====
