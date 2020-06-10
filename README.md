@@ -53,7 +53,7 @@ Enjoy!
 - A full and lite version available.
 - Lightweight! 
 
-![Banner](img/hbi.jpg?raw=true)
+![Banner](img/hi.jpg?raw=true)
 
 - [Awoo Installer](https://github.com/Huntereb/Awoo-Installer) By Hunterb - Title Installer
 - [Homebrew Appstore](https://github.com/vgmoose/hb-appstore/releases) By vgmoose - Homebrew Appstore
@@ -98,46 +98,45 @@ Enjoy!
 
 ![Banner](img/faq.jpg?raw=true)
 
-- ## What is Vöid?
+![Banner](img/what.jpg?raw=true)
 
-     - Vöid is an all-in-one custom firmware for the Nintendo Switch based on [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/blob/master/README.md), in the same kin as Kosmos, entirely focussing on ease of use for anyone that wants to set up custom firmware on their Nintendo Switch without much effort.
+Vöid is an all-in-one custom firmware for the Nintendo Switch based on [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/blob/master/README.md), in the same kin as Kosmos, entirely focussing on ease of use for anyone that wants to set up custom firmware on their Nintendo Switch without much effort.
 
 ***I AM NOT INVOLVED WITH OR AFFILIATED IN ANY WAY WITH KOSMOS, OR THE KOSMOS TEAM. THIS IS NOT KOSMOS 2.0.***
 
-- ## Why "Vöid"?
+![Banner](img/why.jpg?raw=true)
 
-     - Atmosphere is named after the layer of gasses around the world, and Kosmos is named after, well, the Cosmos. Both astronomical, Vöid is named from the emptiness of space, and to "fill the void" of Kosmos.
+Atmosphere is named after the layer of gasses around the world, and Kosmos is named after, well, the Cosmos. Both astronomical, Vöid is named from the emptiness of space, and to "fill the void" of Kosmos.
 
-- ## You said Incognito isn't known to be safe, what else can I do to protect myself?
+![Banner](img/safe.jpg?raw=true)
 
-     - First of all, do not install pirated games and run them on your account and then connect to the internet. That is a sure way to get banned.
-     - If you do want to connect to the internet and use applications such as Homebrew Appstore, then I'd highly recommend [90DNS](https://gbatemp.net/threads/90dns-dns-server-for-blocking-all-nintendo-servers.516234/)
+First of all, do not install pirated games and run them on your account and then connect to the internet. That is a sure way to get banned.
+If you do want to connect to the internet and use applications such as Homebrew Appstore, then I'd highly recommend [90DNS](https://gbatemp.net/threads/90dns-dns-server-for-blocking-all-nintendo-servers.516234/)
 
-- ## How do I use overlays?
+![Banner](img/overlay.jpg?raw=true)
 
-     - Press L + R + Up to load the overlay menu.
+Press L + R + Up to load the overlay menu.
 
-- ## Why Awoo and Goldleaf? Isn't one enough?
+![Banner](img/awoo.jpg?raw=true)
 
-     - Goldleaf is incredible for title management but can be a bit broken at times at installing games. This is where Awoo comes in, as it works the majority of the time.
+Goldleaf is incredible for title management but can be a bit broken at times at installing games. This is where Awoo comes in, as it works the majority of the time.
 
-- ## Does HBG Shop work with this?
+![Banner](img/hbg.jpg?raw=true)
 
-     - Hekate has been set up to run Fusee Primary, so for all intents and purposes, HGB Shop should work.
+Hekate has been set up to run Fusee Primary, so for all intents and purposes, HGB Shop should work.
 
-- ## Can I contribute?
+![Banner](img/cont.jpg?raw=true)
 
-     - Sure! Hit me up with a message on what you'd want to do/add and we'll talk from there.
+Sure! Hit me up with a message on what you'd want to do/add and we'll talk from there.
+Discord: Synecdoche#2077
 
-     - Discord: Synecdoche#2077
+![Banner](img/discord.jpg?raw=true)
 
-- ## Is there a Vöid Discord?
+Not at the moment, as I don't see a need for one, but if people are interested I'd happily make one.
 
-     - Not at the moment, as I don't see a need for one, but if people are interested I'd happily make one.
+![Banner](img/patreon.jpg?raw=true)
 
-- ## Where's your Patreon page?
-
-     - I don't have one, nor do I feel like adding one. This pack at the time of writing is entirely just an easy to use bundle of what you can make yourself, and taking money from what is almost no effort at this time doesn't sit well with me. If I do end up creating my own apps for this bundle, then I may consider it.
+I don't have one, nor do I feel like adding one. This pack at the time of writing is entirely just an easy to use bundle of what you can make yourself, and taking money from what is almost no effort at this time doesn't sit well with me. If I do end up creating my own apps for this bundle, then I may consider it.
 
 ![Banner](img/license.jpg?raw=true)
 
