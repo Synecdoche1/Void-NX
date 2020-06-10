@@ -9,7 +9,7 @@ This is in no way coded, or made by me, only very slight changes and is intended
 
 # DISCLAIMER
 
-> :warning: **MAKE A NAND BACK UP THROUGH HEKATE BEFORE DOING ANYTHING TO YOUR SWITCH! YOU HAVE BEEN WARNED!**: Proceed with caution! :warning:
+> :warning: **MAKE A NAND BACK UP THROUGH HEKATE BEFORE DOING ANYTHING TO YOUR SWITCH! YOU HAVE BEEN WARNED!**: Proceed with caution!
 
 Please use [this guide](https://switch.homebrew.guide/usingcfw/hekate.html) to make a full NAND backup before continuing. If you already have a full NAND backup, and it's safe and sound, then please continue.
 
