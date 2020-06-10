@@ -7,7 +7,7 @@
 
 This is in no way coded, or made by me, only very slight changes and is intended to be an all-in-one package to make installing customer firmware painless.
 
-# DISCLAIMER
+![Banner](img/disclaimer.jpg?raw=true)
 
 ***MAKE A NAND BACK UP THROUGH HEKATE BEFORE DOING ANYTHING TO YOUR SWITCH! YOU HAVE BEEN WARNED!***
 
