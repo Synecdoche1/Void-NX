@@ -11,6 +11,8 @@ This is in no way coded, or made by me, only very slight changes and is intended
 
 ***MAKE A NAND BACK UP THROUGH HEKATE BEFORE DOING ANYTHING TO YOUR SWITCH! YOU HAVE BEEN WARNED!***
 
+I do not condone the use of Piracy in any way. Sigpatches are included purely for use of your own legal Nintendo Switch backups and not for the illegal download or use of Nintendo Switch games. I will not offer support, links or advice on how to pirate in any shape or form.
+
 I am not in any way responsible for anything that happens to your Switch, nor would I expect anything to happen. Use at your discretion. When modifying anything on your Switch you are always at risk at possible damage, or an account ban from Nintendo. Use it at your own risk.
 
 <!--ts-->
