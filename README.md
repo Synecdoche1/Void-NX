@@ -8,9 +8,8 @@
 This is in no way coded, or made by me, only very slight changes and is intended to be an all-in-one package to make installing customer firmware painless.
 
 # DISCLAIMER
+> :warning: **MAKE A NAND BACK UP THROUGH HEKATE BEFORE DOING ANYTHING TO YOUR SWITCH! YOU HAVE BEEN WARNED!**: Proceed with caution!
 <div class="flash flash-error">
-**MAKE A NAND BACK UP THROUGH HEKATE BEFORE DOING ANYTHING TO YOUR SWITCH! YOU HAVE BEEN WARNED!**: Proceed with caution!
-</div>
 
 Please use [this guide](https://switch.homebrew.guide/usingcfw/hekate.html) to make a full NAND backup before continuing. If you already have a full NAND backup, and it's safe and sound, then please continue.
 
