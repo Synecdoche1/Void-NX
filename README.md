@@ -140,6 +140,10 @@ Not at the moment, as I don't see a need for one, but if people are interested I
 
 I don't have one, nor do I feel like adding one. This pack at the time of writing is entirely just an easy to use bundle of what you can make yourself, and taking money from what is almost no effort at this time doesn't sit well with me. If I do end up creating my own apps for this bundle, then I may consider it.
 
+## License
+
+This project is licensed under the [GPL 3.0 License](https://choosealicense.com/licenses/gpl-3.0/) - see the [LICENSE.md](LICENSE.md) file for details
+
 Credits
 =====
 
