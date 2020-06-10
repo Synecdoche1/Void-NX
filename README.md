@@ -27,7 +27,7 @@ I am not in any way responsible for anything that happens to your Switch, nor wo
    * [Credits](#credits)
 <!--te-->
 
-# How To Use
+![Banner](img/htu.jpg?raw=true)
 
 - Download the latest flavour of ZIP in the releases section. 
   - I recommend using a clean SD Card. You can do this by formatting the card, or simply deleting everything **__EXCEPT__** for Nintendo and emummc (if you have an emuNAND)
@@ -36,7 +36,7 @@ I am not in any way responsible for anything that happens to your Switch, nor wo
 - Inject your favourite Payload into your Switch as you normally would. I recommend Hekate, and booting into either sysNAND or emuNAND.
 Enjoy!
 
-# Features
+![Banner](img/features.jpg?raw=true)
 
 - Drag and drop, ready to use from the moment you inject your payload!
 - Sigpatches included by default, to allow you to play your legit backups!
@@ -53,7 +53,7 @@ Enjoy!
 - A full and lite version available.
 - Lightweight! 
 
-# Homebrew Included
+![Banner](img/hbi.jpg?raw=true)
 
 - [Awoo Installer](https://github.com/Huntereb/Awoo-Installer) By Hunterb - Title Installer
 - [Homebrew Appstore](https://github.com/vgmoose/hb-appstore/releases) By vgmoose - Homebrew Appstore
@@ -72,20 +72,19 @@ Enjoy!
 - [Amiigo](https://github.com/CompSciOrBust/Amiigo) By ComSciOrBust - A GUI to use with emuiibo.
 - [SYS-Tune Overlay](https://github.com/HookedBehemoth/sys-tune/releases/tag/v1.1.2) By Hooked Behemoth - An overlay that allows you to listen to music while playing games!
 
-# Payloads Included
+![Banner](img/pli.jpg?raw=true)
 
 - [Hekate](https://github.com/CTCaer/hekate/releases) By CTCaer - Custom Firmware Launcher and emuNAND Creator.
 - [Lockpick RCM](https://github.com/shchmue/Lockpick_RCM/releases) By shchmue - Generates Encryption Keys
 - [Tegra Explorer](https://github.com/suchmememanyskill/TegraExplorer) By suchmememanyskill - Payload Based File Explorer
 
-# PC Tools Included
+![Banner](img/pti.jpg?raw=true)
 
 - [Tegra RCM GUI](https://github.com/eliboa/TegraRcmGUI/releases) By eliboa - PC RCM Payload Injector
 - [Switch Backup Manager](https://github.com/gibaBR) By gibaBR - Switch Game Backup Manager 
 - [NS-USBloader](https://github.com/developersu/ns-usbloader) By developersu - Switch Game Installer for PC 
 
-Upcoming Features
-=====
+![Banner](img/ucf.jpg?raw=true)
 
 - [ ] Vöid Updater
   - Currently not planned as not to promise a feature I cannot support at this time.
@@ -97,8 +96,7 @@ Upcoming Features
 - [x] Enable chainloading to use with HBG Shop
 - [x] Include a Vöid Lite, for people who don't want the Payloads or PC Tools.
 
-FAQ
-=====
+![Banner](img/faq.jpg?raw=true)
 
 - ## What is Vöid?
 
@@ -141,12 +139,12 @@ FAQ
 
      - I don't have one, nor do I feel like adding one. This pack at the time of writing is entirely just an easy to use bundle of what you can make yourself, and taking money from what is almost no effort at this time doesn't sit well with me. If I do end up creating my own apps for this bundle, then I may consider it.
 
-## License
+![Banner](img/license.jpg?raw=true)
 
 This project is licensed under the [GPL 3.0 License](https://choosealicense.com/licenses/gpl-3.0/) - see the [LICENSE.md](LICENSE.md) file for details
 
-Credits
-=====
+![Banner](img/credits.jpg?raw=true)
+
 
 Vöid is currently being maintained by __Synecdoche__.<br>
 I thank all the following people, in no order, for their amazing homebrew and contributions to the scene.
