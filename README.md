@@ -33,6 +33,8 @@ I am not in any way responsible for anything that happens to your Switch, nor wo
 
 # How To Use
 
+> :warning: **MAKE A NAND BACK UP THROUGH HEKATE BEFORE DOING ANYTHING TO YOUR SWITCH! YOU HAVE BEEN WARNED!**: Proceed with caution!
+<div class="flash flash-error">
 - Download the latest flavour of ZIP in the releases section. 
   - I recommend using a clean SD Card. You can do this by formatting the card, or simply deleting everything **__EXCEPT__** for Nintendo and emummc (if you have an emuNAND)
 - Place the contents of the SD folder (or the contents of the Lite ZIP folder) directly to the root of your SD Card.
