@@ -103,6 +103,7 @@ Upcoming Features
 - [x] Enable chainloading to use with HBG Shop
 - [x] Include a Vöid Lite, for people who don't want the Payloads or PC Tools.
 - [x] Test HBG Shop.
+- [x] Include a patched and unpatched version.
 
 
 FAQ
