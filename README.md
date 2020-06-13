@@ -133,7 +133,7 @@ FAQ
 
 - ## Does HBG Shop work with this?
 
-     - Hekate has been set up to run Fusee Primary, so for all intents and purposes, HGB Shop should work.
+     - After a week of finding an HBG Shop download after their site went down, I can now say that HBG Shop does work.
 
 - ## Can I contribute?
 
