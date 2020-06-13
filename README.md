@@ -45,7 +45,7 @@ Enjoy!
 
 - Drag and drop, ready to use from the moment you inject your payload!
 - 2 flavours are available, Patched and Unpatched. Patched includes up-to-date sigpatches.
-- Boots through Hekate using Fusee-Primary, making it HGB ready.
+- Boots through Hekate using Fusee-Primary, making it HBG ready.
 - Works on all Firmware versions, providing you can inject the payload.
 - Incognito enabled by default, using the Atmosphere's new Incognito, which doesn't require a backup, or writing directly to NAND!
   - This is enabled for emuNAND **only** to enable people to go online on sysNAND without issue.
