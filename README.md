@@ -88,6 +88,7 @@ Enjoy!
 - [Tegra RCM GUI](https://github.com/eliboa/TegraRcmGUI/releases) By eliboa - PC RCM Payload Injector
 - [Switch Backup Manager](https://github.com/gibaBR) By gibaBR - Switch Game Backup Manager 
 - [NS-USBloader](https://github.com/developersu/ns-usbloader) By developersu - Switch Game Installer for PC 
+- .[Appstore Workbench](https://github.com/LyfeOnEdge/appstore-workbench/releases) By LyfeOnEdge - HB Appstore on your PC.
 
 Upcoming Features
 =====
@@ -101,6 +102,7 @@ Upcoming Features
 - [x] Enable sigpatches by default
 - [x] Enable chainloading to use with HBG Shop
 - [x] Include a Vöid Lite, for people who don't want the Payloads or PC Tools.
+- [x] Test HBG Shop.
 
 
 FAQ
@@ -177,3 +179,4 @@ I thank all the following people, in no order, for their amazing homebrew and co
 * __ITotalJustice__ for Gamecart Installer, allowing us to back up our games.
 * __exelix11__ for Switch Theme Injector, allowing us have custom themes on the Switch.
 * __HookedBehemoth__ for SYS Tune Overlay, allowing us to listen to music while we play.
+* __LyfeOnEdge__ for Appstore Workbench, allowing us to very easily install and update homebrew on our PC.
