@@ -167,7 +167,7 @@ FAQ
 
 - ## Does HBG Shop work with this?
 
-     - After a week of finding an HBG Shop download after their site went down, I can now say that HBG Shop does work.
+     - HBG Shop will only work with the HBG version of Vöid.
 
 - ## Can I contribute?
 
