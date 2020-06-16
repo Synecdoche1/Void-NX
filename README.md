@@ -88,7 +88,7 @@ Enjoy!
 - [Tegra RCM GUI](https://github.com/eliboa/TegraRcmGUI/releases) By eliboa - PC RCM Payload Injector
 - [Switch Backup Manager](https://github.com/gibaBR) By gibaBR - Switch Game Backup Manager 
 - [NS-USBloader](https://github.com/developersu/ns-usbloader) By developersu - Switch Game Installer for PC 
-- .[Appstore Workbench](https://github.com/LyfeOnEdge/appstore-workbench/releases) By LyfeOnEdge - HB Appstore on your PC.
+- [Appstore Workbench](https://github.com/LyfeOnEdge/appstore-workbench/releases) By LyfeOnEdge - HB Appstore on your PC.
 
 Upcoming Features
 =====
