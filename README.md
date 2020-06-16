@@ -47,7 +47,7 @@ Enjoy!
 
 - Drag and drop, ready to use from the moment you inject your payload!
 - 2 flavours are available, Normal and HBG. Both patched, but HBG Shop only works on HBG version.
-- Boots through Hekate using Fusee-Primary, making it HBG ready.
+- HBG version Boots through Hekate using Fusee-Primary, making it HGB ready.
 - Works on all Firmware versions, providing you can inject the payload.
 - Incognito enabled by default, using the Atmosphere's new Incognito, which doesn't require a backup, or writing directly to NAND!
   - This is enabled for emuNAND **only** to enable people to go online on sysNAND without issue.
