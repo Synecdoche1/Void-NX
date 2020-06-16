@@ -24,6 +24,8 @@ I am not in any way responsible for anything that happens to your Switch, nor wo
    * [Homebrew Included](#homebrew-included)
    * [Payloads Included](#payloads-included)
    * [PC Tools Included](#pc-tools-included)
+   * [Full vs Lite](#full-vs-lite)
+   * [Troubleshooting](#troubleshooting)
    * [Upcoming Features](#upcoming-features)
    * [FAQ](#faq)
    * [License](#license)
@@ -89,6 +91,35 @@ Enjoy!
 - [Switch Backup Manager](https://github.com/gibaBR) By gibaBR - Switch Game Backup Manager 
 - [NS-USBloader](https://github.com/developersu/ns-usbloader) By developersu - Switch Game Installer for PC 
 - [Appstore Workbench](https://github.com/LyfeOnEdge/appstore-workbench/releases) By LyfeOnEdge - HB Appstore on your PC.
+
+# Full vs Lite
+
+**Full:**
+
+Full contains everything in this pack, including the payloads and PC Tools and all Homebrew listed above.
+
+**Lite:**
+
+Lite contains the bare minimum to get you up and running with custom firmware and the useful tools to keep you up to date and playing.
+
+Lite does ***NOT*** include the following:
+- The PC Tools folder
+- The Payloads folder
+- Amiigo
+- FTPD
+- Switch Theme Installer
+- Switch Cheat Updater
+- N-Xplorer
+- Sys-Tune Overlay
+- Amiigo Overlay
+
+# Troubleshooting
+
+  **It wont boot, it's only a black screen?**
+From what I've been told by various people, this seems to be fixed by a completely fresh install and formatting to FAT32. How this works is beyond me because it's never happened to myself nor many people.
+
+  **I keep getting a fatal error on boot?**
+Try to fix archive bits through Hekate, this should never be needed but always seems to fix it.
 
 Upcoming Features
 =====
