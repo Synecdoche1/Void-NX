@@ -94,11 +94,11 @@ Enjoy!
 
 # Full vs Lite
 
-**Full:**
+## **Full:**
 
 Full contains everything in this pack, including the payloads and PC Tools and all Homebrew listed above.
 
-**Lite:**
+## **Lite:**
 
 Lite contains the bare minimum to get you up and running with custom firmware and the useful tools to keep you up to date and playing.
 
@@ -115,10 +115,12 @@ Lite does ***NOT*** include the following:
 
 # Troubleshooting
 
-  **It wont boot, it's only a black screen?**
+##  **It wont boot, it's only a black screen?**
+  
 From what I've been told by various people, this seems to be fixed by a completely fresh install and formatting to FAT32. How this works is beyond me because it's never happened to myself nor many people.
 
-  **I keep getting a fatal error on boot?**
+##  **I keep getting a fatal error on boot?**
+  
 Try to fix archive bits through Hekate, this should never be needed but always seems to fix it.
 
 Upcoming Features
